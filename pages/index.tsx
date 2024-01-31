@@ -59,7 +59,7 @@ export default function Home() {
         <section id='about' className=' bg-secondary px-4'>
           <div className='container bg-white rounded-t-[70px]'>
             <div className='text-center py-4'>
-                <h1 className='text-2xl font-bold mt-10 font-lato text-primary'>Tentang Kami</h1>
+                <h1 className='text-2xl font-bold mt-10 font-lato text-primary'>Tentang kita</h1>
             </div>
             <div className='flex flex-wrap'>
               <div className='w-full lg:w-1/2 px-4 py-2 mb-5 '>
